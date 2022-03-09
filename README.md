@@ -8,4 +8,4 @@
 
 ✅ JS Statements
 
-✅ JS Syntax
+✅ JS Syntax and Comments
