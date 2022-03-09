@@ -5,3 +5,5 @@
 ✅ JS Introduction
 
 ✅ JS Output
+
+✅ JS Statements
