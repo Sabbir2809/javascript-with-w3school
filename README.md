@@ -7,3 +7,5 @@
 ✅ JS Output
 
 ✅ JS Statements
+
+✅ JS Syntax
