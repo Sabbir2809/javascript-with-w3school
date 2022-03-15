@@ -9,3 +9,5 @@
 ✅ JS Statements
 
 ✅ JS Syntax and Comments
+
+✅ JS Variables
