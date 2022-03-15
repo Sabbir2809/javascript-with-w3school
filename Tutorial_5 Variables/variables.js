@@ -4,6 +4,7 @@
 var x = 5;
 var y = 6
 var z = x + y;
+
 // var can be redeclared
 var name = "John Doe";
 var name = 0;

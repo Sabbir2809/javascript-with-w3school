@@ -5,7 +5,6 @@ name = "Sabbir Hossain";
     let x = "John Doe";
     let x = 0; // SyntaxError: 'x' has already been declared
 */
-
 // let have Block Scope (global Scope, Function Scope)
 let x = 10;
 console.log(x); // Here x is 10

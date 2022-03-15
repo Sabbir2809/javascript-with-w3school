@@ -10,4 +10,4 @@
 
 ✅ JS Syntax and Comments
 
-✅ JS Variables
+✅ JS Variables (var, let, const)
