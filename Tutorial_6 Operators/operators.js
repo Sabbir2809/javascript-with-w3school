@@ -31,6 +31,7 @@ console.log(x3);
 
 // Logical Operators (&&, ||, !)
 
+
 // Type Operators (typeof(), instanceof())
 
 

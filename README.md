@@ -11,3 +11,5 @@
 ✅ JS Syntax and Comments
 
 ✅ JS Variables (var, let, const)
+
+✅ JS Operators (Arithmetic, Assignment, String, Comparison, Logical, Type Operators)
