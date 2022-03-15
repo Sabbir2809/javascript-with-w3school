@@ -4,6 +4,23 @@
 var x = 5;
 var y = 6
 var z = x + y;
+// var can be redeclared
+var name = "John Doe";
+var name = 0;
+
+// Block Scope
+var x = 10;
+console.log(x); // Here x is 10
+{
+var x = 2;
+console.log(x); // Here x is 2
+}
+console.log(x); // Here x is 2
+
+// Hoisting
+carName = "Volvo";
+var carName;
+
 
 // Using let
 let a = 50;
