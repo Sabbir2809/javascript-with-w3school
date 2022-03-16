@@ -13,3 +13,5 @@
 ✅ JS Variables (var, let, const)
 
 ✅ JS Operators (Arithmetic, Assignment, String, Comparison, Logical, Type Operators)
+
+✅ JS Data Types
