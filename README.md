@@ -17,3 +17,5 @@
 ✅ JS Data Types
 
 ✅ JS Functions
+
+✅ JS Objects
