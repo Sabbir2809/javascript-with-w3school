@@ -19,3 +19,5 @@
 ✅ JS Functions
 
 ✅ JS Objects
+
+✅ JS Events
