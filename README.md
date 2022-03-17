@@ -15,3 +15,5 @@
 ✅ JS Operators (Arithmetic, Assignment, String, Comparison, Logical, Type Operators)
 
 ✅ JS Data Types
+
+✅ JS Functions
