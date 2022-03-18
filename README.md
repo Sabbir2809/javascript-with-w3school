@@ -21,3 +21,5 @@
 ✅ JS Objects
 
 ✅ JS Events
+
+✅ JS String A to Z
